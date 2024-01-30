@@ -9,5 +9,6 @@
     <h1>テーマの開発練習</h1>
     <p>gitの練習</p>
     <p>branchtestでpタグ追加</p>
+    <p>Githubの練習</p>
 </body>
 </html>
