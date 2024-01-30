@@ -10,5 +10,6 @@
     <p>gitの練習</p>
     <p>branchtestでpタグ追加</p>
     <p>Githubの練習</p>
+    <p>Githubでコンフリクト</p>
 </body>
 </html>
