@@ -10,6 +10,5 @@
     <p>gitの練習</p>
     <p>branchtestでpタグ追加</p>
     <p>Githubの練習</p>
-    <p>mainブランチでタグを追加</p>
 </body>
 </html>
